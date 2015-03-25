@@ -31,7 +31,7 @@
   "disallowQuotedKeysInObjects": true,
   "disallowSemicolons": false,
   "disallowSpaceAfterBinaryOperators": false,
-  disallowSpaceAfterKeywords: false,
+  "disallowSpaceAfterKeywords": false,
   "disallowSpaceAfterLineComment": false,
   "disallowSpaceAfterObjectKeys": true,
   "disallowSpaceAfterPrefixUnaryOperators": ["++", "--", "+", "-", "~", "!"],
